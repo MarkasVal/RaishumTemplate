@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color:lightgray
+  background-color: whitesmoke;
 }
 
 code {
@@ -144,7 +144,7 @@ code {
 }
 
 .col-lg-8mx-autofs-5text-muted{
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-family: 'Sora', sans-serif;
   font-size: 30px;
   text-align: center;
